@@ -20,6 +20,6 @@
     "url": "http://www.wtfpl.net/txt/copying/"
   },
   "dependencies": {
-    "pleeease": "^3.3.0"
+    "pleeease": "^4.0.2"
   }
 }
